@@ -36,6 +36,7 @@
 - **Collaborative Intelligence:** Every analysis performed by any student anywhere permanently enriches the institutional branch for their junior batches.
 
 ---
+---
 
 ## 📂 Vault Hierarchy
 
